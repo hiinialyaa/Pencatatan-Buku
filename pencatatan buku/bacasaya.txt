@@ -1,0 +1,7 @@
+Cara instalasi :
+1. download / clone code bagian CRUD
+2. masukan kedalam xampp
+3. masukan kedalam htdocs
+4. masukan kedalam folder yang anda telah buat atau anda membuat terlebih dahulu
+5. buat database dengan nama latihan
+6. import database latihan yang terdapat pada folder database
